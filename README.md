@@ -115,4 +115,4 @@ Após executar todos os scripts, você deve conseguir:
 ---
 
 # 👩‍💻 Autora  
-**Isabely Fabricio Gomes da Silva**
+**Isabely Fabricio**
