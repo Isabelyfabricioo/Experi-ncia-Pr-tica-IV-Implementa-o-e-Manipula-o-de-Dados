@@ -2,7 +2,7 @@
 ## Criação e Manipulação de Dados em SQL (Mini-mundo)
 
 Este repositório contém todos os scripts SQL desenvolvidos para a Experiência Prática IV da disciplina de **Implementação e Manipulação de Dados**.  
-O projeto utiliza o minimundo *BeautyCare*, criado nas experiências anteriores, representando o funcionamento de uma clínica de estética.
+O meu projeto utiliza o minimundo *BeautyCare*, criado em experiências anteriores, representando o funcionamento de uma clínica de estética.
 
 ---
 
@@ -11,8 +11,8 @@ O projeto utiliza o minimundo *BeautyCare*, criado nas experiências anteriores,
 - `01_create_tables.sql` → Criação do banco e das tabelas  
 - `02_insert_data.sql` → Inserção de dados nas tabelas  
 - `03_select_queries.sql` → Consultas SELECT  
-- `04_update_queries.sql` → Comandos UPDATE **com condição**  
-- `05_delete_queries.sql` → Comandos DELETE **com condição**  
+- `04_update_queries.sql` → Comandos UPDATE com condição  
+- `05_delete_queries.sql` → Comandos DELETE com condição 
 
 ---
 
@@ -74,7 +74,7 @@ São usadas para validar os dados e testar o banco.
 ## **4️⃣ Comandos UPDATE (com condição)**
 Arquivo: `04_update_queries.sql`
 
-Todos os comandos UPDATE possuem cláusula **WHERE**, conforme escolha da autora do trabalho.
+Todos os comandos UPDATE possuem cláusula **WHERE**.
 
 Esses comandos:
 
